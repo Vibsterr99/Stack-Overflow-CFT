@@ -1,2 +1,1 @@
-# Stack-Overflow-CFT
-Educational lab artifacts and analysis notes on stack-based memory corruption and mitigation behavior — for defensive research &amp; SOC training (lab-only).
+Educational lab materials and analysis notes for a Northeastern University assignment on stack-based memory corruption and mitigation behaviour. Intended for instructor review and defensive research in isolated lab environments only.
