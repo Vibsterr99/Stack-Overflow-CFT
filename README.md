@@ -1,1 +1,1 @@
-Educational lab materials and analysis notes for a Northeastern University assignment on stack-based memory corruption and mitigation behaviour. Intended for instructor review and defensive research in isolated lab environments only.
+Analysis notes on stack-based memory corruption and mitigation behaviour. Intended for instructor review and defensive research in isolated lab environments only.
